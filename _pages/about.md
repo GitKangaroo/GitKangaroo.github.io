@@ -19,6 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am an Experimental Particle Physicist working at Imperial College London and currently a member of the LHCb experiment.
+Hello! I am an Experimental Particle Physicist working at Imperial College London and currently a member of the [LHCb](https://www.home.cern/science/experiments/lhcb) experiment.
+
+The following are my current research interests:
+
+- Conducting new analysis in beauty flavour physics to measure the [CKM](https://en.wikipedia.org/wiki/Cabibbo%E2%80%93Kobayashi%E2%80%93Maskawa_matrix) matrix element related to the beauty-up quark.
+- Involved in the analysis of the performance of the LHCb [RICH](https://lhcb-outreach.web.cern.ch/detector/rich-detectors/) detectors.
+- Rare decays
 
 I obtained my DPhil degree in Particle Physics from the University of Oxford in 2023, specializing in neutrino accelerator physics. I earned my bachelor's and master's degrees in Physics from the University of Manchester between 2015 and 2019.
