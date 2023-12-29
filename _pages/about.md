@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Particle Physics Research Associate at <a href='#'>Imperial College London</a>. 
 
 profile:
   align: right
