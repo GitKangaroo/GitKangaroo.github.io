@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Particle Physics Research Associate at <a href='#'>Imperial College London</a>. 
+subtitle: Particle Physics Research Associate at <a href='https://www.imperial.ac.uk/high-energy-physics/people/'>Imperial College London</a>. 
 
 profile:
   align: right
