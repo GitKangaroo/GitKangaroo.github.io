@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kangyang.com/sitemap.xml
+Sitemap: https://GitKangaroo.github.io/sitemap.xml
