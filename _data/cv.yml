@@ -6,6 +6,19 @@
     - name: Languages
       value: English, Chinese
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Associate
+      institution: Imperial College London, London, UK
+      year: 2023 - now
+      description:
+        - title: LHCb Experiment
+          contents:
+            - Proposed a new way of meaureing the CKM matrix V<sub>ub</sub> element.
+            - LHCb RICH performance analysis in the upcoming run 3.
+
+
 - title: Education
   type: time_table
   contents:
@@ -22,18 +35,6 @@
       year: 2015 - 2019
       description:
         - Graduated with First Class Honors (82%) - (ranked top 10%)
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Associate
-      institution: Imperial College London, London, UK
-      year: 2023 - present
-      description:
-        - title: LHCb Experiment
-          contents:
-            - Proposed a new way of meaureing the CKM matrix V<sub>ub</sub> element.
-            - LHCb RICH performance analysis in the upcoming run 3.
 
 - title: Academic Interests
   type: nested_list
