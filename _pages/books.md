@@ -4,7 +4,7 @@ permalink: /books/
 title: Books
 description: Here is a list of good books I’ve read and want to share with you - none of them are about physics. Enjoy!
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 ##### Books that changed my life:
