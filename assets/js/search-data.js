@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-books",
+          title: "Books",
+          description: "Here is a list of good books I’ve read and want to share with you - none of them are about physics. Enjoy!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "Here is a list of my publications, including articles to which I have contributed.",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-books",
-          title: "Books",
-          description: "Here is a list of good books I’ve read and want to share with you - none of them are about physics. Enjoy!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -397,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-given-another-invited-seminar-at-the-univeristy-of-liverpool",
           title: 'Given another invited seminar at the Univeristy of Liverpool.',
           description: "",
-          section: "News",},{id: "news-created-a-new-page-to-share-good-books-i-ve-read-none-of-them-are-about-physics-enjoy",
-          title: 'Created a new page to share good books I’ve read - none of...',
+          section: "News",},{id: "news-created-a-new-page-to-share-some-books-i-ve-read-none-of-them-are-about-physics-enjoy",
+          title: 'Created a new page to share some books I’ve read - none of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
