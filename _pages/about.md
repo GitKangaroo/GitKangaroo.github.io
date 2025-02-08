@@ -7,7 +7,8 @@ subtitle: Research Associate at <a href='https://www.imperial.ac.uk/high-energy-
 profile:
   align: right
   image: KangYang.jpg
-  image_circular: true # crops the image to make it circular 
+  image_circular: true # crops the image to make it circular
+  style: "margin-top: -100px;"  # Moves the image up
   more_info: 
     #<p>Room 528</p>
     #<p>Blackett Laboratory</p>
@@ -25,11 +26,6 @@ announcements:
 ---
 
 Hello! I am an Experimental Particle Physicist working at Imperial College London and currently a member of the [LHCb](https://www.home.cern/science/experiments/lhcb) experiment.
-
-The following are my current research interests:
-
-- Conducting new analysis in beauty flavour physics to measure the [CKM](https://en.wikipedia.org/wiki/Cabibbo%E2%80%93Kobayashi%E2%80%93Maskawa_matrix) matrix element related to the beauty-up quark.
-- Involved in the analysis of the performance of the LHCb [RICH](https://lhcb-outreach.web.cern.ch/detector/rich-detectors/) detectors.
 
 I obtained my DPhil degree in Accelerator Neutrino Physics from the University of Oxford in 2023. I earned my bachelor's and master's degrees in Physics from the University of Manchester between 2015 and 2019.
 
