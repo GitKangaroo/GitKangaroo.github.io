@@ -29,3 +29,4 @@ Hello! I am an Experimental Particle Physicist working at Imperial College Londo
 
 I obtained my DPhil degree in Accelerator Neutrino Physics from the University of Oxford in 2023. I earned my bachelor's and master's degrees in Physics from the University of Manchester between 2015 and 2019.
 
+I’m a fitness enthusiast who enjoys working out regularly. I’m not a professional trainer, but I love tracking my progress and optimizing my nutrition. Here are some [Excel sheets](https://docs.google.com/spreadsheets/u/3/d/13zT5a-7iyt6jnca7Lc8BsX1T4UrTfa767Al0-GU89mI/copy) I use to monitor my workouts and diet.  Originally from [Built With Science](https://builtwithscience.com/), shared for personal use only.
