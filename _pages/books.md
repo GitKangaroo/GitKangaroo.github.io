@@ -22,6 +22,13 @@ nav_order: 1
 
 <br>
 
+##### Non-Fiction books that everyone must read:
+
+- **Sapiens: A Brief History of Humankind** - *Yuval Noah Harari* :thumbsup::thumbsup:  
+- **The Consolations of Philosophy** - *Alain de Botton* :thumbsup::thumbsup:  
+
+<br>
+
 ##### Books that are fun to read:
 
 - **The Uncertainty Solution** - *John M. Jennings*  
