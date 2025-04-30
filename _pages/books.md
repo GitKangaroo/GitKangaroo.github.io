@@ -24,7 +24,8 @@ nav_order: 1
 
 ##### Non-Fiction books that everyone must read:
 
-- **Sapiens: A Brief History of Humankind** - *Yuval Noah Harari* :thumbsup::thumbsup:  
+- **Sapiens: A Brief History of Humankind** - *Yuval Noah Harari* :thumbsup::thumbsup:
+- **Homo Deus: A Brief History of Tomorrow** - *Yuval Noah Harari* :thumbsup:
 - **The Consolations of Philosophy** - *Alain de Botton* :thumbsup::thumbsup:  
 
 <br>
@@ -39,6 +40,7 @@ nav_order: 1
 
 <br>
 
+<!-- 
 ##### Other books that could be condensed into 10 pages: :neutral_face:
 
 - **Millionaire Teacher** - *Andrew Hallam*  
@@ -47,8 +49,9 @@ nav_order: 1
 - **The Pathless Path** - *Paul Millerd*  
 
 <br>
+-->
 
-##### Fiction books, which, of course, cannot be condensed:
+##### Fiction books:
 
 - **1984** - *George Orwell* :thumbsup::thumbsup:  
 - **Animal Farm** - *George Orwell* :thumbsup:  

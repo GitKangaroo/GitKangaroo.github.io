@@ -1,0 +1,4 @@
+docker compose up
+gita .
+gitc -m 'Updated books'
+git push origin main
