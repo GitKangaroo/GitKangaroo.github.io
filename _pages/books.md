@@ -20,6 +20,7 @@ nav_order: 1
 - **The Black Swan** - *Nassim Nicholas Taleb* (Highly recommended to read the postscript essays) :thumbsup::thumbsup:  
 - **The Consolations of Philosophy** - *Alain de Botton* :thumbsup::thumbsup:  
 - **Range** - *David Epstein* :thumbsup::thumbsup:  
+- **Lessons in Stoicism** - *John Sellars* :thumbsup::thumbsup:  
 
 <br>
 
@@ -27,7 +28,7 @@ nav_order: 1
 
 - **Sapiens: A Brief History of Humankind** - *Yuval Noah Harari* :thumbsup::thumbsup:
 - **Homo Deus: A Brief History of Tomorrow** - *Yuval Noah Harari* :thumbsup:
-- **The Conquest of the Incas** - *John Hemming* :thumbsup:
+- **The Last Days of the Incas** - *Kim MacQuarrie* :thumbsup:
 
 <br>
 
