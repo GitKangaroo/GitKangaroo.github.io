@@ -11,6 +11,7 @@ nav_order: 1
 
 - **Outliers** - *Malcolm Gladwell* :thumbsup::thumbsup::thumbsup:  
 - **Early Retirement Extreme** - *Jacob Lund Fisker* :thumbsup::thumbsup::thumbsup:  
+- **Meditations** - *Marcus Aurelius* :thumbsup::thumbsup::thumbsup:  
 
 <br>
 
@@ -20,7 +21,8 @@ nav_order: 1
 - **The Black Swan** - *Nassim Nicholas Taleb* (Highly recommended to read the postscript essays) :thumbsup::thumbsup:  
 - **The Consolations of Philosophy** - *Alain de Botton* :thumbsup::thumbsup:  
 - **Range** - *David Epstein* :thumbsup::thumbsup:  
-- **Lessons in Stoicism** - *John Sellars* :thumbsup::thumbsup:  
+- **Lessons in Stoicism** - *John Sellars* :thumbsup::thumbsup::thumbsup:   
+- **The Happiness Hypothesis** - *Jonathan Haidt* :thumbsup::thumbsup::thumbsup:   
 
 <br>
 
@@ -39,6 +41,7 @@ nav_order: 1
 - **Clear Thinking** - *Shane Parrish*  
 - **The Art of Impossible** - *Steven Kotler*  
 - **Atomic Habits** - *James Clear*  
+- **The Tipping Point** - *Malcolm Gladwell*  
 
 <br>
 
