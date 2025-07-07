@@ -24,7 +24,7 @@ nav_order: 1
 - **Lessons in Stoicism** - *John Sellars* :thumbsup::thumbsup::thumbsup:   
 - **The Happiness Hypothesis** - *Jonathan Haidt* :thumbsup::thumbsup::thumbsup:   
 - **The Courage to Be Disliked** - *Fumitake Koga and Ichiro Kishimi* :thumbsup::thumbsup::thumbsup:   
-- **The Daily Stoic** - *Fumitake Koga and Ichiro Kishimi* :thumbsup::thumbsup::thumbsup:   
+- **The Daily Stoic** - *Ryan Holiday* :thumbsup::thumbsup::thumbsup:   
 
 <br>
 
