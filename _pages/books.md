@@ -23,6 +23,8 @@ nav_order: 1
 - **Range** - *David Epstein* :thumbsup::thumbsup:  
 - **Lessons in Stoicism** - *John Sellars* :thumbsup::thumbsup::thumbsup:   
 - **The Happiness Hypothesis** - *Jonathan Haidt* :thumbsup::thumbsup::thumbsup:   
+- **The Courage to Be Disliked** - *Fumitake Koga and Ichiro Kishimi* :thumbsup::thumbsup::thumbsup:   
+- **The Daily Stoic** - *Fumitake Koga and Ichiro Kishimi* :thumbsup::thumbsup::thumbsup:   
 
 <br>
 
@@ -31,6 +33,7 @@ nav_order: 1
 - **Sapiens: A Brief History of Humankind** - *Yuval Noah Harari* :thumbsup::thumbsup:
 - **Homo Deus: A Brief History of Tomorrow** - *Yuval Noah Harari* :thumbsup:
 - **The Last Days of the Incas** - *Kim MacQuarrie* :thumbsup:
+- **Man's Search for Meaning** - *Viktor Frankl* :thumbsup:
 
 <br>
 
@@ -60,5 +63,5 @@ nav_order: 1
 
 - **1984** - *George Orwell* :thumbsup::thumbsup:  
 - **Animal Farm** - *George Orwell* :thumbsup:  
-- **Metro 2033** - *Dmitry Glukhovsky*  
+- **Flatland** - *Edwin Abbott Abbott* :thumbsup:  
 
