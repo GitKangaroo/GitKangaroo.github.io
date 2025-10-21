@@ -11,7 +11,7 @@ nav_order: 1
 
 - **Outliers** - *Malcolm Gladwell* :thumbsup::thumbsup::thumbsup:  
 - **Early Retirement Extreme** - *Jacob Lund Fisker* :thumbsup::thumbsup::thumbsup:  
-- **Meditations** - *Marcus Aurelius* :thumbsup::thumbsup::thumbsup:  
+- **Meditations** - *Marcus Aurelius* :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:  
 
 <br>
 
@@ -34,6 +34,9 @@ nav_order: 1
 - **Homo Deus: A Brief History of Tomorrow** - *Yuval Noah Harari* :thumbsup:
 - **The Last Days of the Incas** - *Kim MacQuarrie* :thumbsup:
 - **Man's Search for Meaning** - *Viktor Frankl* :thumbsup:
+- **Guns, Germs, and Steel** - *Jared Diamond* :thumbsup::thumbsup:
+- **The Man Who Mistook His Wife for a Hat** - *Oliver Sacks* :thumbsup::thumbsup:
+- **The Third Chimpanzee** - *Jared Diamond* :thumbsup:
 
 <br>
 
@@ -45,7 +48,9 @@ nav_order: 1
 - **The Art of Impossible** - *Steven Kotler*  
 - **Atomic Habits** - *James Clear*  
 - **The Tipping Point** - *Malcolm Gladwell*  
-
+- **Blink** - *Malcolm Gladwell*
+- **Counselling for Toads: A Psychological Adventure** - *Robert de Board*
+  
 <br>
 
 <!-- 
